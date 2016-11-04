@@ -2,8 +2,6 @@
 Coding Challenge
 
 # Challenge 2 - Enumerate all primes <= n
-A prime number (or a prime) is an integer greater than 1 that has no positive divisors other than 1 and itself.
-
 Write a program which takes as input an int value n and returns an array of int containing all unique primes <= n.
 
 Example: if the value of n is 8, the function should return: {2,3,5,7}
